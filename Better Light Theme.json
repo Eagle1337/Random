@@ -1,0 +1,17 @@
+{
+  "name": "Better Light Theme",
+  "description": "A theme made by Underskore",
+  "authors": [
+    {
+      "name": "Underskore",
+      "id": "nope"
+    }
+  ],
+    "rawColors": {
+        "PLUM_6": "#474747",
+        "Brand_500": "#474747",
+        "Brand_560":"#474747"
+    },
+    "spec": 2
+}
+
