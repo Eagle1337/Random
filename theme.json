@@ -1,16 +1,16 @@
 {
-  "name": "Lavender no",
-  "description": "A theme made by Vodka",
+  "name": "Better Light Theme",
+  "description": "A theme made by Underskore",
   "authors": [
     {
-      "name": "Vodka Martini",
-      "id": "1068030255455015013"
+      "name": "Underskore",
+      "id": "nope"
     }
   ],
   "spec": 2,
   
   "rawColors": {
-    "PLUM_6": "#9E8376"
+    "PLUM_6": "#45454"
   }
 
 
